@@ -1,0 +1,1 @@
+tar -zcvf lotus_icon_mask.tar.gz lotus_icon_mask

@@ -1,0 +1,23 @@
+Package: sh.joseph.clarity.custom_carrier
+Name: Custom Carrier
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This package allows you to set a custom carrier
+Depiction: https://srs.joseph.sh/packages/custom_carrier.html
+Homepage: http://srs.joseph.sh
+Maintainer: Joseph Shenton <joe@joseph.sh>
+Author: Joseph Shenton <joe@joseph.sh>
+Section: Tweaks
+Location: custom_carrier.tar.gz
+
+Package: sh.joseph.clarity.lotus_icon_mask
+Name: Lotus Icon Mask
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This package allows you to have the same icon mask in the Lotus theme.
+Depiction: https://srs.joseph.sh/packages/lotus_icon_mask.html
+Homepage: http://srs.joseph.sh
+Maintainer: Joseph Shenton <joe@joseph.sh>
+Author: Joseph Shenton <joe@joseph.sh>
+Section: Themes
+Location: lotus_icon_mask.tar.gz
